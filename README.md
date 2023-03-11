@@ -1,6 +1,6 @@
 # A direct approach to estimating the Bayes error in binary classification
 
-We provide implementation of ["Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification" (Notable-top-5% paper at ICLR 2023)](https://openreview.net/forum?id=FZdJQgy05rz)" by [Takashi Ishida](https://takashiishida.github.io), [Ikko Yamane](https://i-yamane.github.io), [Nontawat Charoenphakdee](https://nolfwin.github.io), [Gang Niu](https://niug1984.github.io/), and [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/).
+We provide implementation of ["Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification" (Notable-top-5% paper at ICLR 2023)](https://openreview.net/forum?id=FZdJQgy05rz) by [Takashi Ishida](https://takashiishida.github.io), [Ikko Yamane](https://i-yamane.github.io), [Nontawat Charoenphakdee](https://nolfwin.github.io), [Gang Niu](https://niug1984.github.io/), and [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/).
 
 ## 📗 Introduction
 
