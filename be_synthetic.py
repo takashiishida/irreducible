@@ -34,7 +34,6 @@ setups = {0: setup_0,
           3: setup_3}
 mu1, mu2, cov1, cov2 = list(setups[args.setup].values())
 
-Modified_means, Modified_ste  = [], []
 for data_size in data_sizes:
 	print(f'setup: {args.setup} | noise: {args.noise} | data size: {data_size} | seed:', end=' ', flush=True)
 	PN_BERs, Pc_BERs, Modified_BERs = [], [], []
