@@ -52,7 +52,7 @@ The columns represent the following categories: 'T-shirt/top', 'Trouser', 'Pullo
 
 We also provide a file named`data/fmh_probs.csv`, which shows the proportion of each class opposed to the raw counts.
 
-Our `data/fmh_raw.csv` file offers the raw annotation data. The 2nd column is the test image ID (ranging from `0000.jpg` to `9999.jpg`), the 3rd column presents the annotation provided by the annotator, and the 4th column contains the pseudo worker ID.
+Our `data/fmh_raw.csv` file offers the raw annotation data. The 1st column is the test image ID (ranging from `0000.jpg` to `9999.jpg`), the 2nd column presents the annotation provided by the annotator, and the 3rd column contains the pseudo worker ID.
 
 See [Section 5.3 and Appendix E in our paper](https://openreview.net/forum?id=FZdJQgy05rz) for further details of Fashion-MNIST-H.
 Note that this dataset is used to derive the Bayes error in `be_fmh.py`.
