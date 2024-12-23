@@ -17,7 +17,7 @@ See `requirements.txt` for requirements.
 For synthetic experiments (in Section 5.1):
 
 ```sh
-python synthetic.py
+python be_synthetic.py
 ```
 
 For benchmark experiments (Section 5.2 and 5.3), first prepare CIFAR-10H data:
